@@ -1,7 +1,5 @@
 # Git_Project_Nben
 
----
-
 ## What is this?
 
 This repository was made specifically for me to revisit for refreshing my memory on using git.

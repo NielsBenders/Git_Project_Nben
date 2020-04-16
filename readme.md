@@ -9,10 +9,6 @@ But if you do feel like the material provided is good enough to maybe even learn
 
 Made by: [Niels Benders](https://github.com/NielsBenders)
 
----
-
 ## Some reference material
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
----
